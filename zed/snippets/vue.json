@@ -1,0 +1,11 @@
+{
+  "vue component setup": {
+    "prefix": "comp",
+    "body": [
+      "<template></template>",
+      "<script setup lang='ts'></script>",
+      "<style scoped></style>"
+    ],
+    "description": "Set up a vue component"
+  }
+}
